@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Auto Services',
+    'name': 'Services Manteniemiento',
     'version': '12.0.0.0',
     'summary': """Module Tester for Autosales""",
     'author': 'Marcos Bolivar Jaimes',
