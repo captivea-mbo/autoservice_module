@@ -5,7 +5,7 @@
     'summary': """Module Auto Services""",
     'author': 'Marcos Bolivar',
     'category': 'Extra Tools',
-    'depends': ['sale', 'mail', 'report_xlsx', 'web_timeline'],
+    'depends': ['sale', 'mail','mail.thread', 'report_xlsx', 'web_timeline'],
     'data': [
     ],
     'images': [],
