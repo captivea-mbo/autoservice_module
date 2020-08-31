@@ -15,7 +15,7 @@ class AutoservicesCustomer(models.Model):
     cus_workphone = fields.Char(string="Work Phone")
     cus_mobilephone = fields.Char(string="Mobile PHone")
     cus_drivelic  = fields.Char(string="Driver Licence", required = True)
-    cus_address = fields.text(string="Address")
+    cus_address = fields.Text(string="Address")
     cus_picture = fields.Binary(string='Image')
 
 
