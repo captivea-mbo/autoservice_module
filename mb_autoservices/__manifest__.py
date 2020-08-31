@@ -3,7 +3,7 @@
     'name': 'Auto Services',
     'version': '12.0.0.0',
     'summary': """Module Tester for Autosales""",
-    'author': 'Marcos Bolivar',
+    'author': 'Marcos Bolivar Jaimes',
     'category': 'Extra Tools',
     'depends': [],
     'images': [],
