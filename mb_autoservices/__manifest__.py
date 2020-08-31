@@ -5,10 +5,10 @@
     'summary': """Module Tester for Autosales""",
     'author': 'Marcos Bolivar Jaimes',
     'category': 'Extra Tools',
-    'depends': [],
-    'images': [],
+    'depends': ['sale', 'mail', 'report_xlsx', 'web_timeline'],
     'data': [
     ],
+    'images': [],
     'installable': True,
     'application': True,
     'auto_install': False,
