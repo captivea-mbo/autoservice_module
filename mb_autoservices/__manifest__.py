@@ -1,15 +1,17 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Auto Services",
-    "version": "12.0.1.0.0",
-    "category": "Extra Tools",
-    "author": "Marcos Bolivar",
-    "website": "www.google.com",
-    "license": "Other proprietary",
-    "depends": ["mail","web_editor"],
-    "data": [
+    #esto es una prueba
+    'name': 'Autosales',
+    'version': '12.0.0.0',
+    'summary': """Module Tester for Autosales""",
+    'author': 'Marcos Bolivar',
+    'category': 'Extra Tools',
+    'depends': [],
+    'images': [],
+    'data': [
+        'guess.xml',
     ],
-    "application": True,
-    "installable": True,
-    "auto_install": False,
+    'installable': True,
+    'application': True,
+    'auto_install': False
 }
