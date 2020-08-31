@@ -8,7 +8,7 @@
     'author': 'Odoo Mates',
     'maintainer': 'Odoo Mates',
     'website': 'www.google.com',
-    'depends': ['sale', 'mail', 'report_xlsx', 'web_timeline'],
+    'depends': ['sale', 'mail','mail.thread', 'report_xlsx', 'web_timeline'],
     'demo': [],
     'data': [
     ],

@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Servicio Manteniemiento Mecanico',
+    'name': 'Mechanical Services and  Maintenance',
     'version': '12.0.0.0',
-    'summary': """Module Tester for Autosales""",
-    'author': 'Marcos Bolivar Jaimes',
+    'summary': """Module Auto Services""",
+    'author': 'Marcos Bolivar',
     'category': 'Extra Tools',
     'depends': ['sale', 'mail', 'report_xlsx', 'web_timeline'],
     'data': [
