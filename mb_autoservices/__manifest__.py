@@ -8,9 +8,8 @@
     'depends': [],
     'images': [],
     'data': [
-        'guess.xml',
     ],
     'installable': True,
     'application': True,
     'auto_install': False
-}
+} bv
