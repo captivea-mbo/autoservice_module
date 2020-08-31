@@ -24,20 +24,3 @@ class AutoservicesCustomer(models.Model):
 
 
 
-
-
-
-
-
-
-
-
-
-
-#    _rec_name = 'patient_name'
-
-
-
-
-
-
