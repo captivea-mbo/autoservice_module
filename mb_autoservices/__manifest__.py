@@ -1,16 +1,15 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "KnowSystem",
-    "version": "12.0.1.0.19",
+    "name": "Auto Services",
+    "version": "12.0.1.0.0",
     "category": "Extra Tools",
-    "author": "Odoo Tools",
-    "website": "https://odootools.com/apps/12.0/knowsystem-287",
+    "author": "Marcos Bolivar",
+    "website": "www.google.com",
     "license": "Other proprietary",
+    "depends": ["mail","web_editor"],
+    "data": [
+    ],
     "application": True,
     "installable": True,
     "auto_install": False,
-    "depends": ["mail","web_editor"],
-    "data": [
-    ]
-
 }
