@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 {
-    #esto es una prueba
     'name': 'Autosales',
     'version': '12.0.0.0',
     'summary': """Module Tester for Autosales""",
